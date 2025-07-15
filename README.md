@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.6+-green.svg" />
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
-  <img src="https://img.shields.io/github/last-commit/SanskarYerawar/sa-py-module-lib.git" />
+  <img src="https://img.shields.io/github/last-commit/SanskarYerawar/sa-py-module-lib" />
 </p>
 
 ---
