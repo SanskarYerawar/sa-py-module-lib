@@ -1,0 +1,40 @@
+# 🐍 Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# 📦 Environment / dependencies (just in case)
+.env
+.venv/
+env/
+venv/
+*.egg-info/
+
+# 🧪 Test output or logs
+*.log
+*.test
+*.out
+*.tmp
+
+# 📁 OS & IDE specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 🔐 Private tokens or config (if added later)
+*.secret
+*.token
+*.key
+
+# 🗂 Archive or build files
+*.zip
+*.tar.gz
+dist/
+build/
+
+# 📂 Optional: exclude example runs or notes
+examples/
+notes/
