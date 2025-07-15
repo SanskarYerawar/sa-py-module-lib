@@ -1,0 +1,5 @@
+hi(name): Basic friendly greeting
+bye(name): Farewell message
+greet_formal(name): Formal greeting
+
+🛡️ Internal use: Version 1.0 | Only authorized users may modify
